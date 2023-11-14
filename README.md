@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
 <h2> About John Carlo:</h2>
 
 I'm a College Student currently residing in Manila, Philippines. I love to read, dance, listen to music and go on adventures. 
-I am willing to learn new things and take advices to improve my knowledge about programming and technology.
+I am willing to learn new things and take advices to improve my knowledge about programming.
 
 
 <h2>📫 How to reach me:</h2>
