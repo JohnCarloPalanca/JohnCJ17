@@ -1,6 +1,6 @@
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JohnCJ17.JohnCJ17)](https://github.com/JohnCJ17) [![GitHub followers](https://img.shields.io/github/followers/JohnCJ17.svg?style=social&label=Follow)](https://github.com/JohnCJ17?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JohnCJ17.JohnCJ17)](https://github.com/JohnCarloPalanca) [![GitHub followers](https://img.shields.io/github/followers/JohnCJ17.svg?style=social&label=Follow)](https://github.com/JohnCarloPalanca?tab=followers)
 
 I'm John Carlo H. Palanca 
 - <i>Currently:</i> BS CpE Student at Pamantasan Ng Lungsod Ng Maynila at Manila, Philippines. 
